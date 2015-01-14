@@ -1,4 +1,4 @@
-/*
+﻿/*
  * HTML5 Boilerplate
  *
  * What follows is the result of much research on cross-browser styling.
@@ -21,8 +21,13 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
+    font-family:"Microsoft YaHei"
 }
 
+small {
+	font-family:"黑体"
+
+}
 /*
  * Remove text-shadow in selection highlight: h5bp.com/i
  * These selection declarations have to be separate.
